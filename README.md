@@ -18,7 +18,7 @@ Taking bits and pieces only when needed.
 
 ## License
 
-This project is licensed under the Ody Nwagwu License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](LICENSE).
 
 ## Inspiration
 
