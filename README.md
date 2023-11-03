@@ -9,6 +9,9 @@ I decided to tackle the challenge of creating my own version of the classical "s
 I found a comprehensive video tutorial that walked me through the main components of the game, from settingup the game field to programming the snake's movements and handling the game logic like growing the snake and keeping score.
 Taking bits and pieces only when needed.
 
+## Dependenices
+Java IDE: Users need to have the Any IDE installed that can run java programs, E.g Eclipse, Intellij etc.
+
 ## Pictures
 ![image](https://github.com/odyess3/Snake-Game/assets/138304906/d1771d9d-57c7-4f17-a319-5c103afd4168)
 
